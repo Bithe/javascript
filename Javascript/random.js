@@ -1,4 +1,5 @@
-const suite=Math.random();
+const suites=Math.random();
+const suite=Math.random()*4;
 
 const rank=Math.floor(Math.random()*13)+1;
 
