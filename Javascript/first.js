@@ -10,3 +10,6 @@ const result= 'c= '+c;
 console.log(result);
 console.log('sum= '+a+b);
 console.log('sum= '+(a+b));
+
+
+console.log(`Result of ${a}+ ${b} is ${a+b}`);
